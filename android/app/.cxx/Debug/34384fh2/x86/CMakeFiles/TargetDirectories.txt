@@ -1,0 +1,2 @@
+C:/Users/l3aoia/StudioProjects/learn_futures_streams/android/app/.cxx/Debug/34384fh2/x86/CMakeFiles/edit_cache.dir
+C:/Users/l3aoia/StudioProjects/learn_futures_streams/android/app/.cxx/Debug/34384fh2/x86/CMakeFiles/rebuild_cache.dir
